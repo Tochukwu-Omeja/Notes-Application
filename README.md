@@ -19,7 +19,7 @@ A simple React-based notes app with dark/light mode toggle functionality.
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/react-notes-app.git
+   git clone https://github.com/Tochukwu-Omeja/react-notes-app.git
 Navigate to the Project Directory:
 
 bash
