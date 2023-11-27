@@ -1,22 +1,25 @@
-React Notes App
+# React Notes App
+
+## Overview
+
 A simple React-based notes app with dark/light mode toggle functionality.
 
-Overview
-This notes app allows users to create, edit, and delete notes. It features a user-friendly interface with the ability to toggle between dark and light modes. Notes are stored locally, providing a seamless experience even after the page is refreshed.
+### Features
 
-Features
-Dark and light mode toggle.
-Add, edit, and delete notes.
-Persistent storage using local storage.
-Technologies Used
-React
-Styled Components
-Getting Started
-Clone the Repository:
+- Dark and light mode toggle.
+- Add, edit, and delete notes.
+- Persistent storage using local storage.
 
-bash
-Copy code
-git clone https://github.com/your-username/react-notes-app.git
+### Technologies Used
+
+- React
+- Styled Components
+
+## Getting Started
+
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/react-notes-app.git
 Navigate to the Project Directory:
 
 bash
@@ -36,20 +39,17 @@ Access the App:
 Open your browser and visit http://localhost:3000
 
 Usage
-Toggle Dark/Light Mode:
-
+1. Toggle Dark/Light Mode
 Click the "Dark Mode" / "Light Mode" button to switch between themes.
-Add a New Note:
-
+2. Add a New Note
 Type your note in the input field.
 Click the "Add Note" button.
-Edit a Note:
-
+3. Edit a Note
 Click on a note to edit its content.
-Delete a Note:
-
+4. Delete a Note
 Click the delete icon next to a note to remove it.
 Local Storage
 Notes and dark mode preference are stored locally using the browser's localStorage.
 Contributing
 Feel free to contribute to the project by opening issues or submitting pull requests. Follow the standard GitHub flow for contributions.
+
